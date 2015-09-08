@@ -1,6 +1,7 @@
 This is the first commit.
 
-More typing.
+More typingEven more
 
-Even more
+
+I'm adding more.
 #
